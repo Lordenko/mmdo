@@ -1,1 +1,1 @@
-![cute cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfll4yxZPTnImhxjWAssFxYyNK2VWoFCjsQ&s)
+![cute cat](https://images.wallpaperscraft.ru/image/single/kotenok_kot_zhivotnoe_211219_2560x1440.jpg)
