@@ -1,0 +1,14 @@
+{
+  "name": "artificial-basis-method",
+  "version": "1.0.0",
+  "description": "Розв'язання задачі лінійного програмування методом штучного базису",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
